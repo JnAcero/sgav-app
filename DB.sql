@@ -1,4 +1,4 @@
--- Active: 1685547823521@@127.0.0.1@3306@sgavapp
+-- Active: 1686158672041@@127.0.0.1@3306@sgavapp
 CREATE TABLE persons(
     id_person VARCHAR(20) NOT NULL PRIMARY KEY,
     firstname_person VARCHAR(50) NOT NULL
