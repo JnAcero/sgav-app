@@ -22,8 +22,9 @@
         </ul>
         </div>
     </nav>
-    <form class="mt-5">
+    <form class="mt-5 formu" >
         <input type="text" placeholder="Nombre de pesona"></input>
+
 
     </form>
     
