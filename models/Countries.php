@@ -1,9 +1,8 @@
 <?php
-
 namespace Models;
-class Persona{
+class Countries{
     protected static $conn;
-    protected static $columsTable = ['id_person','firstname_person'];
+    protected static $columsTable = ['id_country','firstname_person'];
     private $id_pais;
     private $firstname_person;
 
